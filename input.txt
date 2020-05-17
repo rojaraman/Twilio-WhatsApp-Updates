@@ -1,0 +1,7 @@
+{
+  "input":[{
+    "country" : "India",
+    "state" : "Telangana",
+    "district": "Ranga Reddy"
+  }]
+}
